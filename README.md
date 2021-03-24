@@ -1,4 +1,4 @@
-# Course-Note-Machine-Learning
+# Course-Note:Applications-of-Machine-Learning-to-Economics-and-Finance
 
 機器學習筆記及學習歷程<br/>
 L1 (03/03) - 基礎指令、練習題<br/>
